@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DialogSample</string>
+    <string name="dialog_cancelable">Dialog Cancelable</string>
+    <string name="dialog_non_cancelable">Dialog Non Cancelable</string>
+    <string name="dialog_positive_negative_button">Dialog Positive Negative Button</string>
+    <string name="custom_layout_dialog">Custom Layout Dialog</string>
+    <string name="fragment_dialog">Fragment Dialog</string>
+    <string name="insert_name">Isikan Nama Disini</string>
+    <string name="fragment_dialog_with_data">Fragment Dialog Dengan Data</string>
+</resources>
