@@ -77,5 +77,11 @@ class MainActivity : AppCompatActivity() {
 
             dialog.show()
         }
+
+        binding.btnFragmentDialog.setOnClickListener {
+            val dialogFragment = AlertDialogFragment()
+            dialogFragment.isCancelable = false
+            dialogFragment.show(supportFragmentManager, null)
+        }
     }
 }

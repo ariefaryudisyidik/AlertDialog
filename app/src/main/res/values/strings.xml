@@ -7,4 +7,7 @@
     <string name="fragment_dialog">Fragment Dialog</string>
     <string name="insert_name">Isikan Nama Disini</string>
     <string name="fragment_dialog_with_data">Fragment Dialog Dengan Data</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="custom_dialog">Custom Dialog</string>
+    <string name="close">Close</string>
 </resources>
